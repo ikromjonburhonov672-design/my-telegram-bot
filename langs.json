@@ -1,0 +1,44 @@
+{
+  "uz": {
+    "start": "Salom! Men eslatma botman. Avval tilni tanlang:",
+    "choose_language": "Tilni tanlang:",
+    "language_set": "Til o'rnatildi: O'zbekcha 🇺🇿",
+    "add_reminder": "Eslatma qo'shish",
+    "remove_reminder": "Eslatmani o'chirish",
+    "list_reminders": "Eslatmalar ro'yxati",
+    "enter_reminder_text": "Eslatma matnini kiriting:",
+    "enter_reminder_time": "Eslatma vaqtini kiriting (HH:MM):",
+    "reminder_saved": "✅ Eslatma saqlandi!",
+    "reminder_deleted": "🗑 Eslatma o'chirildi!",
+    "no_reminders": "Sizda hech qanday eslatma yo'q.",
+    "unknown_command": "❓ Noto‘g‘ri komanda!"
+  },
+  "ru": {
+    "start": "Привет! Я бот-напоминалка. Сначала выберите язык:",
+    "choose_language": "Выберите язык:",
+    "language_set": "Язык установлен: Русский 🇷🇺",
+    "add_reminder": "Добавить напоминание",
+    "remove_reminder": "Удалить напоминание",
+    "list_reminders": "Список напоминаний",
+    "enter_reminder_text": "Введите текст напоминания:",
+    "enter_reminder_time": "Введите время напоминания (ЧЧ:ММ):",
+    "reminder_saved": "✅ Напоминание сохранено!",
+    "reminder_deleted": "🗑 Напоминание удалено!",
+    "no_reminders": "У вас нет напоминаний.",
+    "unknown_command": "❓ Неизвестная команда!"
+  },
+  "en": {
+    "start": "Hello! I am a reminder bot. Please choose a language first:",
+    "choose_language": "Choose a language:",
+    "language_set": "Language set: English 🇬🇧",
+    "add_reminder": "Add Reminder",
+    "remove_reminder": "Remove Reminder",
+    "list_reminders": "List Reminders",
+    "enter_reminder_text": "Enter reminder text:",
+    "enter_reminder_time": "Enter reminder time (HH:MM):",
+    "reminder_saved": "✅ Reminder saved!",
+    "reminder_deleted": "🗑 Reminder deleted!",
+    "no_reminders": "You have no reminders.",
+    "unknown_command": "❓ Unknown command!"
+  }
+}
